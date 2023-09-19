@@ -1,0 +1,22 @@
+The “ STUDENT DATABASE MANAGEMENT SYSTEM ” will consist of two tables, namely “Results” and “Contact Information”.
+Table “Results” will store the data of Students’ Results and the Table “Contact Information” will store data of Students’ Contacts. 
+The system is broadly divided  into  3 categories:  
+	•	Adding or Deleting a student’s result or contact information  
+	•	Searching  for  student’s result or contact information  
+	•	Modification  of  in student’s result or contact information  
+Our  aim  is  to  make  a  computer  program  which  makes it easier to handle data of hundreds of student if not thousands and be able to modify it later or even completely remove it if needed.  
+  
+	•		INPUTS IN RESULT TABLE:
+	•	Student’s SID Number
+	•	Student’s Name
+	•	Student’s Stream
+	•	Student’s Marks
+
+	•	INPUTS IN CONTACT INFORMATION TABLE:
+	•	Student’s SID Number
+	•	Student’s Name
+	•	Student’s Father’s Name
+	•	Student’s Mother’s Name
+	•	Student’s Primary Contact Number
+	•	Student’s Secondary Contact number
+	•	Student’s Address
